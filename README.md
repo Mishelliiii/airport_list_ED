@@ -25,4 +25,5 @@ This project has the MIT license. See the archive [LICENSE](LICENSE.md) for more
 
 ---
 
-Made with ♥ by Carol, Mishelle and Chris :wave: 
+Made with ♥ by Carol https://www.linkedin.com/in/carolina-quiterio-978419188/,
+Mishelle and Chris :wave: 
